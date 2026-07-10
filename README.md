@@ -1,10 +1,3 @@
-# AI Agent & OpenClaw Research Intern - Pre-Interview Assessment
-
-## Submitted by: Ramsha Annam
-## Date: July 10, 2026
-
----
-
 # Part 1: Company Research - Elchai Group Overview
 
 **Elchai Group** (Elchai World FZCO) is a Dubai-based AI, blockchain, and digital transformation consultancy founded in 2022. With **150+ completed projects**, the company operates across four core pillars:
