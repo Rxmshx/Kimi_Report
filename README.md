@@ -1,3 +1,10 @@
+# Report on a Chineese Open Source AI Model
+
+## Submitted by: Ramsha Annam
+## Date: July 10, 2026
+
+## Live Web Link: https://v0-kimi-report.vercel.app/
+---
 # Part 1: Company Research - Elchai Group Overview
 
 **Elchai Group** (Elchai World FZCO) is a Dubai-based AI, blockchain, and digital transformation consultancy founded in 2022. With **150+ completed projects**, the company operates across four core pillars:
