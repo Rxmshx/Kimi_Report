@@ -306,7 +306,7 @@ Phase 3 (Month 3+):        Scale or Discontinue Based on Results
 | **Main risk?** | Data privacy (Chinese company) - mitigate with self-hosting |
 | **Verdict?** | Test internally first, then pilot on non-sensitive projects |
 
-## Elchai + Kimi K2.6: Top 3 Quick Wins
+# Elchai + Kimi K2.6: Top 3 Quick Wins
 
 1. **Smart Contract Development:** Use Kimi Code (terminal-based coding agent) to accelerate Solidity development with 5x cost savings vs. Claude
 2. **Client Presentation Generation:** Kimi Slides for rapid, professional proposal decks
@@ -314,7 +314,7 @@ Phase 3 (Month 3+):        Scale or Discontinue Based on Results
 
 ---
 
-## Getting Started
+# Getting Started
 
 First, run the development server:
 
